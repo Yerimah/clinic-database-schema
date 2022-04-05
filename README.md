@@ -1,7 +1,10 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # clinic-database-schema
 
 > This is the clinic database where different records about patients are stored. It is composed of different entities which are related to one another.
-# Screenshot
+
+![schema diagram](https://user-images.githubusercontent.com/71140133/161764252-9d0523bc-c77b-4e38-8784-7439362ca48c.PNG)
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
